@@ -1,0 +1,15 @@
+c:\users\mathieu\documents\visual studio 2015\Projects\MySuperAddin\MySuperAddin\bin\Debug\MySuperAddin-AddIn.dna
+c:\users\mathieu\documents\visual studio 2015\Projects\MySuperAddin\MySuperAddin\bin\Debug\MySuperAddin.dll
+c:\users\mathieu\documents\visual studio 2015\Projects\MySuperAddin\MySuperAddin\bin\Debug\MySuperAddin.pdb
+c:\users\mathieu\documents\visual studio 2015\Projects\MySuperAddin\MySuperAddin\obj\Debug\MySuperAddin.dll
+c:\users\mathieu\documents\visual studio 2015\Projects\MySuperAddin\MySuperAddin\obj\Debug\MySuperAddin.pdb
+C:\Users\mathieu\Documents\Visual Studio 2015\Projects\MySuperAddin\MySuperAddin\obj\Debug\MySuperAddin._Common.Logging.TraceWindow.resources
+C:\Users\mathieu\Documents\Visual Studio 2015\Projects\MySuperAddin\MySuperAddin\obj\Debug\MySuperAddin.csproj.GenerateResource.Cache
+L:\Dev\Sandbox\Apps Development\MySuperAddin\MySuperAddin\bin\Debug\MySuperAddin-AddIn.dna
+L:\Dev\Sandbox\Apps Development\MySuperAddin\MySuperAddin\bin\Debug\MySuperAddin.dll
+L:\Dev\Sandbox\Apps Development\MySuperAddin\MySuperAddin\bin\Debug\MySuperAddin.pdb
+L:\Dev\Sandbox\Apps Development\MySuperAddin\MySuperAddin\obj\Debug\MySuperAddin.csprojResolveAssemblyReference.cache
+L:\Dev\Sandbox\Apps Development\MySuperAddin\MySuperAddin\obj\Debug\MySuperAddin._Common.Logging.TraceWindow.resources
+L:\Dev\Sandbox\Apps Development\MySuperAddin\MySuperAddin\obj\Debug\MySuperAddin.csproj.GenerateResource.Cache
+L:\Dev\Sandbox\Apps Development\MySuperAddin\MySuperAddin\obj\Debug\MySuperAddin.dll
+L:\Dev\Sandbox\Apps Development\MySuperAddin\MySuperAddin\obj\Debug\MySuperAddin.pdb
